@@ -2,15 +2,16 @@
 
 https://prakharsingh.github.io
 
+Listening Now 🎧
 <table width="100%"> 
   <tr>
-    <td>
-      &nbsp; <br> [![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
-    </td>
+  <td>
+    
+  &nbsp; <br> [![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
+    
+  </td>
   </tr>
 </table>
-
-
 <!--
 **prakharsingh/prakharsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
