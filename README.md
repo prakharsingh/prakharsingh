@@ -2,7 +2,13 @@
 
 https://prakharsingh.github.io
 
-[![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
+<table width="100%"> 
+  <tr>
+    <td>
+      [![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
+    </td>
+  </tr>
+</table>
 
 
 <!--
