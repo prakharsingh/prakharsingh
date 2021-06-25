@@ -5,7 +5,7 @@ https://prakharsingh.github.io
 <table width="100%"> 
   <tr>
     <td>
-      [![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
+      &nbsp; <br> [![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
     </td>
   </tr>
 </table>
