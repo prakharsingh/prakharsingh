@@ -1,3 +1,5 @@
+[![GitHub Metrics](https://github.com/prakharsingh/prakharsingh/actions/workflows/metrics.yml/badge.svg?branch=master&event=status)](https://github.com/prakharsingh/prakharsingh/actions/workflows/metrics.yml)
+
 ### Hi there 👋
 
 https://prakharsingh.github.io
@@ -12,6 +14,9 @@ Listening Now 🎧
   </td>
   </tr>
 </table>
+
+![Metrics](./github-metrics.svg)
+
 <!--
 **prakharsingh/prakharsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
