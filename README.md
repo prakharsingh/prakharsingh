@@ -22,7 +22,7 @@ Based in Pune, Maharashtra, India. Works remotely with global teams.
 
 #### Links
 
-- **Résumé:** <https://prakharsingh.github.io/>
+- **Resume:** <https://prakharsingh.github.io/>
 - **Notes:** [Agentic code review in production — orchestration, evaluation, and the cost of being wrong](https://prakharsingh.github.io/notes/agentic-code-review/)
 - **LinkedIn:** <https://linkedin.com/in/singh-prakhar>
 - **ORCID:** <https://orcid.org/0009-0004-0049-4060>
