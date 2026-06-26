@@ -37,4 +37,5 @@ AWS / GCP / Kubernetes · FinTech · AI developer tooling
 
 [![Spotify](https://spotify-status-prakharsingh.vercel.app/api/spotify)](https://open.spotify.com/user/prakharsingh)
 
-![Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" width="100%" />
+
