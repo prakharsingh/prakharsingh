@@ -25,16 +25,16 @@ jobs:
           plugin_stars_limit: 4
           extras_css: |
             svg {
-              font-size: 16px;
+              font-size: 12px;
             }
             h1 {
-              font-size: 32px;
+              font-size: 18px;
             }
             h2 {
-              font-size: 24px;
+              font-size: 16px;
             }
             h3 {
-              font-size: 20px;
+              font-size: 14px;
             }
 
 
