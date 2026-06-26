@@ -23,4 +23,18 @@ jobs:
           plugin_topics_limit: 15
           plugin_stars: yes
           plugin_stars_limit: 4
+          extras_css: |
+            svg {
+              font-size: 16px;
+            }
+            h1 {
+              font-size: 22px;
+            }
+            h2 {
+              font-size: 18px;
+            }
+            h3 {
+              font-size: 16px;
+            }
+
 
