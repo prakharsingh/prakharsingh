@@ -510,7 +510,7 @@ h3 {
                                     </svg>
                                     <div class="name">
                                         <span>prakharsingh/audit-packs</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An evidence-first Compliance Intelligence Engine that transforms security scanner findings into standardized, evidence-backed compliance artifacts.</div>
@@ -660,7 +660,7 @@ h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2026, 11:55:22  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2026, 13:24:40  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
