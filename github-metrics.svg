@@ -457,7 +457,7 @@ h3 {
                                     </svg>
                                     <div class="name">
                                         <span>react/react</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The library for web and native user interfaces.</div>
@@ -660,7 +660,7 @@ h3 {
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2026, 15:05:55  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2026, 17:04:43  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
